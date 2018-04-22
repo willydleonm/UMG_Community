@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CommunityUMG</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Community UMG</string>
+    <string name="nav_header_subtitle">wdeleonm@miumg.edu.gt</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="nav_title_home">Inicio</string>
+    <string name="nav_title_favorites">Favoritos</string>
+    <string name="nav_title_logout">Cerrar Sesión</string>
+    <string name="nav_title_about">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
